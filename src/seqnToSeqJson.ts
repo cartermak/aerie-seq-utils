@@ -21,7 +21,7 @@ import type {
   StringArgument,
   SymbolArgument,
   Time,
-  VariableDeclaration
+  VariableDeclaration,
 } from '@nasa-jpl/seq-json-schema/types';
 import { TimeTypes } from './enums/time';
 import { removeEscapedQuotes, unquoteUnescape } from './parse-utils';

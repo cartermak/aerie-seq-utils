@@ -16,7 +16,7 @@ import type {
   SymbolArgument,
   Time,
   VariableDeclaration,
-  SeqJson
+  SeqJson,
 } from '@nasa-jpl/seq-json-schema/types';
 import { quoteEscape } from './parse-utils';
 import { logError } from './logger';
